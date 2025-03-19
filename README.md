@@ -6,6 +6,12 @@ Dit is gewoon de README test, hier kan van alles komen te staan als inleiding vo
 
 ## Wat is er te vinden in deze repository?
 
+Hier is te vinden hoe Logius opensource werkt.
+
 ## Wat kan ik hiermee?
 
+Inlezen over hoe de overheid opensource werkt.
+
 ## Wat is het doel hiervan?
+
+Transparanter als overheid te werken.
