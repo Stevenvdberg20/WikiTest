@@ -1,7 +1,8 @@
 
 # README
 
-Dit is gewoon de README test, hier kan van alles komen te staan als inleiding voor het project bijvoorbeeld, of informatie over de repository (hoe wordt deze onderhouden, welke licentie hangt eraan vast, ....)
+Welkom op de repository voor Open Logius. Hier zul je allerlei informatie vinden over het Open Source beleid en de uitvoering daarvan.
+(Hieronder eventueel aanvullen met extra informatie zoals hoe wordt deze onderhouden, welke licentie hangt eraan vast, ....)
 
 ### Wat is er te vinden in deze repository?
 
